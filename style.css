@@ -1,0 +1,211 @@
+
+@import url('https://fonts.googleapis.com/css?family=K2D:300,400,700');
+
+
+.plugin-holder{
+	font-family: 'K2D', sans-serif;
+}
+
+#crypto-title{
+	font-size:36px;
+}
+.italic{
+	font-style:italic;
+}
+
+.panel-body table td{
+	padding-right:40px;
+	padding-bottom:10px;
+}
+
+.wallet-address{
+	width:250px;
+}
+
+.crypto-title{
+	font-size:24px;
+}
+
+.info-title{
+	font-size:16px;
+	font-weight:bold;
+}
+
+.info-bitcoin{
+	background-color:#f7931a;
+	color:white;
+	padding-left:10px;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+
+.body-bitcoin{
+	background-color:#f7d35a;
+	padding-left:10px;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+
+.info-dogecoin{
+	background-color:#bba033;
+	color:white;
+	padding-left:10px;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+
+.body-dogecoin{
+	background-color:#fbe083;
+	padding-left:10px;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+
+.info-ethereum{
+	background-color:#231f20;
+	color:white;
+	padding-left:10px;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+
+.body-ethereum{
+	background-color:#a3afa0;
+	padding-left:10px;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+
+.info-ethereum-classic{
+	background-color:#669073;
+	color:white;
+	padding-left:10px;
+	padding-top:5px;
+	padding-bottom:5px;
+	
+	
+}
+
+.body-ethereum-classic{
+	background-color:#a6d0b3;
+	padding-left:10px;
+	padding-top:5px;
+	padding-bottom:5px;
+	
+	
+}
+
+.info-litecoin{
+	background-color:#b1b2b6;
+	color:white;
+	padding-left:10px;
+	padding-top:5px;
+	padding-bottom:5px;
+	
+	
+}
+
+.body-litecoin{
+	background-color:#e1e2e6;
+	padding-left:10px;
+	padding-top:5px;
+	padding-bottom:5px;
+	
+	
+}
+
+.info-zcash{
+	background-color:#f4b728;
+	color:white;
+	padding-left:10px;
+	padding-top:5px;
+	padding-bottom:5px;
+	
+	
+}
+
+.body-zcash{
+	background-color:#f4e778;
+	padding-left:10px;
+	padding-top:5px;
+	padding-bottom:5px;
+	
+	
+}
+
+.info-important{
+	background-color:#f42728;
+	color:white;
+	padding-left:10px;
+	padding-top:5px;
+	padding-bottom:5px;
+	font-size:16px;
+	font-weight:bold;
+}
+
+.info-media{
+	margin: 20px 0px;
+	background-color:#5555f8;
+	color:white;
+	padding-left:10px;
+	padding-top:5px;
+	padding-bottom:5px;
+	font-size:16px;
+	font-weight:bold;
+}
+
+.single-crypto-shortcode{
+	margin-top:10px;
+	margin-bottom:10px;
+	border:solid 1px black;
+}
+.panel-title{
+	font-family: 'K2D', sans-serif;
+	
+}
+
+.panel-heading{
+	padding-bottom:10px;
+}
+
+.panel-heading h2{
+	font-size:36px;
+}
+
+
+.panel-body{
+	font-family: 'K2D', sans-serif;
+}
+
+
+.change-button{
+	text-align:uppercase;
+	 border-radius:none;
+	 border:none;
+	 color:white;
+	 background-color:#333;
+	 width:100px;
+	height:40px;
+	cursor:pointer;
+}
+
+.change-button:hover{
+	 background-color:#555;
+}
+
+
+.divider{
+	width:100%;
+	border-top:2px solid black;
+margin-top:20px;
+	padding-bottom:20px;
+	
+}
+
+.donate-table{
+	width:256px;
+}
+
+.donate-table tr td{
+	border:none;
+}
